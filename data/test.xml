@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentences>
+	<sentence>
+		<text>The food was served promptly but the meal wasn't rushed - we had plenty of time to enjoy the appetizers and our entrees as well as sit and chat while finishing up our drinks even after we paid.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="food" to="8"/>
+			<aspectTerm from="13" polarity="positive" term="served" to="19"/>
+			<aspectTerm from="93" polarity="positive" term="appetizers" to="103"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>When I got home, there was a message on the machine because the owner realized that our waitress forgot to charge us for our wine.</text>
+		<aspectTerms>
+			<aspectTerm from="64" polarity="neutral" term="owner" to="69"/>
+			<aspectTerm from="88" polarity="negative" term="waitress" to="96"/>
+			<aspectTerm from="125" polarity="neutral" term="wine" to="129"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Scene Shun Lee Palace is popular with midtown locals, possibly because the upscale room means you can impress a client and have Chinese for lunch at the same time.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="Scene" to="9"/>
+			<aspectTerm from="144" polarity="neutral" term="lunch" to="149"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>To both our surprise, this inquiry was interpreted as a personal offense by the waiter who told my wife to leave the store if she didnt want the pastries.</text>
+		<aspectTerms>
+			<aspectTerm from="80" polarity="negative" term="waiter" to="86"/>
+			<aspectTerm from="145" polarity="neutral" term="pastries" to="153"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>In fact you can find their menu offerings at other places for better qualities and lower prices.</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="neutral" term="menu" to="31"/>
+			<aspectTerm from="89" polarity="positive" term="prices" to="95"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Been here a few times and food has always been good but service really suffers when it gets crowded.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="positive" term="food" to="30"/>
+			<aspectTerm from="56" polarity="negative" term="service" to="63"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It's sad that everything about this place was great (even the service and decor) except for the steak.</text>
+		<aspectTerms>
+			<aspectTerm from="62" polarity="positive" term="service" to="69"/>
+			<aspectTerm from="74" polarity="positive" term="decor" to="79"/>
+			<aspectTerm from="96" polarity="negative" term="steak" to="101"/>
+		</aspectTerms>
+	</sentence>
+</sentences>
