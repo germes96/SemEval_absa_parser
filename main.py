@@ -4,5 +4,5 @@ base_path = ''
 raw_train_path = os.path.join(base_path, 'data/test.xml')
 test_data = parse_sentence_term_for_sentiment(raw_train_path)
 data = get_sentence_vector(test_data)
-print(test_data[3]['sentence'])
+print(test_data[3]['sentence'] , test_data[3]['aspect'])
 print(data[3])
